@@ -9,4 +9,3 @@
 2. Install dev dependencies: `pip install -r requirements-dev.txt`
 3. Run tests in simulated mode: `pytest -q`
 
-See `docs/` for more details.
